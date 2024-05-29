@@ -27,7 +27,7 @@ The Hospital Management System (HMS) is a comprehensive software solution design
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/SriHarshaKodavati/HMS.git`
+1. Clone the repository: `git clone https://github.com/SriHarshaKodavati/Hospital-Management-System.git`
 2. Navigate to the project directory: `cd hospital-management-system`
 3. Install dependencies for the backend: `npm install`
 4. Navigate to the client directory: `cd client`
